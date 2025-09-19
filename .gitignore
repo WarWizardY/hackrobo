@@ -1,0 +1,7 @@
+core
+*.pyc
+__pycache__/
+/.venv/
+/example_*.json
+/site/
+.DS_Store
